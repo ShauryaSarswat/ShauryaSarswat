@@ -7,6 +7,8 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
 # Engineer @ 2024 👷🏻
 
 
+<b> Important Links : </b> [LinkedIn](https://linkedin.com/in/ShauryaSarswat/) | [Portfolio](https://flowcv.me/shauryasarswat) | [LeetCode](https://leetcode.com/ShauryaSarswat/)
+
 ## <b> Education </b>
 
     Dr. A.P.J. Abdul Kalam Technical University
