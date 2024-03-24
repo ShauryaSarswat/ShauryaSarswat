@@ -9,7 +9,7 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
 
 <b> Education </b>
 
-    <b> Dr. A.P.J. Abdul Kalam Technical University </b>
+    Dr. A.P.J. Abdul Kalam Technical University
 
     Bachelor of Technology in Computer Science and Engineering
     July 2020 - July 2024
