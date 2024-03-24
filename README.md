@@ -4,10 +4,10 @@
 
 DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rating : 1547) | Top 2 Institute Rank GFG | 5⭐️ HackerRank | Data Science & Machine Learning | Full-Stack Development | Content Writing & Blogging
 
-### Engineer @ 2024 👷🏻
+# Engineer @ 2024 👷🏻
 
 
-<b> Education </b>
+## <b> Education </b>
 
     Dr. A.P.J. Abdul Kalam Technical University
 
@@ -43,7 +43,7 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
 
     - Winner of InterSchool Basketball tournament 🏀
 
-<b> Experience </b>
+## <b> Experience </b>
 
     Provis Technologies Pvt. Ltd., Jaipur - Rajasthan
     
@@ -56,7 +56,7 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
     
     Technologies Used : MongoDB, ExpressJs, ReactJs, NodeJs
 
-<b> Skills </b>
+## <b> Skills </b>
 
     - Programming Languages : C/C++, Python, JavaScript, Java, SQL
 
