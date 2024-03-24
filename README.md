@@ -63,3 +63,30 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
     - Python Libraries : NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Ultralytics, OpenCV, Tensorflow
 
     - Tools & Technologies : HTML, CSS, Bootstrap, MongoDB, ExpressJs, ReactJs, NodeJs, MySQL, REST API, Git, Github, PowerBI, Data Analytics, Machine Learning, Computer Vision
+
+## <b> Awards & Achievements </b>
+
+    - Qualified for Meta Hacker Cup 2022 with a rank of 5363 in the Qualifiers and 6019 in Round 1
+
+    - Achieved the highest AIR149 in the monthly Coderush Contest organized by Newton School
+
+    - Ranked 1283 out of 90,000+ participants in the PrepSAT Hackathon hosted by PrepInsta
+
+    - Mastered 650+ DSA problems on LeetCode, securing 8 badges, and tackled additional 200+ problems on other platforms
+
+    - Secured 2 Gold and 1 Silver Medal at Zonal and State level in Mathematics and Cyber olympiads and quiz tournament
+
+    - Attained proficiency by clearing 11 certification tests on Hackerrank, receiving 3 Gold badges and 1 Bronze badge
+
+## <b> Extracurriculars </b>
+
+    MITGI Voyager
+
+    Chief Editor 2021-2024
+
+    - Managed a team of 12 content and section editors, overseeing the interview process and developing magazine content
+
+    - Published Magazine for 2021, 2022 and 2023 edition as Section Editor and Chief Editor of Editorial Board respectively
+
+    - Interviewed Candidates for the roles of section editors and content designers, and performed submission reviews
+
