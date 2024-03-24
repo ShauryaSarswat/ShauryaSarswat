@@ -43,4 +43,23 @@ DSA Enthusiast (Solved 1000+ Problems @LeetCode and @GFG) | 3⭐️ LeetCode(Rat
 
     - Winner of InterSchool Basketball tournament 🏀
 
+<b> Experience </b>
+
+    Provis Technologies Pvt. Ltd., Jaipur - Rajasthan
     
+    Back-end Development Intern
+    July 2023 - September 2023
+
+    - Developed a robust back-end using the NodeJs / ExpressJs to serve all the end-points for the blog post web application
+    - Strengthened a highly interactive and scalable UI employing EJS and subsequently increased the user retention by 30%
+    - Collaborated effectively within cross-functional teams to achieve project goals and foster a dynamic work environment
+    
+    Technologies Used : MongoDB, ExpressJs, ReactJs, NodeJs
+
+<b> Skills </b>
+
+    - Programming Languages : C/C++, Python, JavaScript, Java, SQL
+
+    - Python Libraries : NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Ultralytics, OpenCV, Tensorflow
+
+    - Tools & Technologies : HTML, CSS, Bootstrap, MongoDB, ExpressJs, ReactJs, NodeJs, MySQL, REST API, Git, Github, PowerBI, Data Analytics, Machine Learning, Computer Vision
